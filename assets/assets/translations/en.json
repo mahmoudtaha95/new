@@ -1,0 +1,76 @@
+{
+  "Sign_Up":"Sign Up",
+  "Welcome":"Welcome,",
+  "Sign_in_to_Continue":"Sign in to Continue",
+  "Email":"Email",
+  "Email_invalid_or_not_found":"Email invalid or not found",
+  "Password":"Password",
+  "Password_is_incorrect":"Password is incorrect",
+  "Forgot_Password":"Forgot Password?",
+  "SIGN_IN":"SIGN IN",
+  "Sign_In_with_Facebook":"Sign In with Facebook",
+  "Sign_In_with_Google":"Sign In with Google",
+
+  "Reset_Password":"Reset Password",
+  "Please_enter_valid_email":"Please enter valid email",
+  "SEND_Request":"SEND Request",
+  "an_email_was_sent":"an email was sent",
+
+  "Name":"Name",
+  "Please_enter_valid_password_with_at_least_6_characters":"Please enter valid password with at least 6 characters",
+
+  "Edit_Profile":"Edit Profile",
+  "You_are_logged_in_using_Google_account":"You are logged in using Google account",
+  "You_are_logged_in_using_Facebook_account":"You are logged in using Facebook account",
+  "Choose_option":"Choose option",
+  "Camera":"Camera",
+  "Gallery":"Gallery",
+  "Select_Image":"Select Image",
+  "Please_enter_valid_name":"Please enter valid name",
+  "SUBMIT":"SUBMIT",
+
+  "Order_History":"Order History",
+  "Total_Billed":"Total Billed",
+  "Empty_Cart":"Empty Cart",
+  "TOTAL":"TOTAL",
+  "Checkout":"Checkout",
+
+
+
+  "Detailed_Address":"Detailed Address",
+  "Please_enter_valid_Address":"Please enter valid Address",
+  "Neighbourhood":"Neighbourhood",
+  "Please_enter_valid_neighbourhood":"Please enter valid neighbourhood",
+  "Governorate":"Governorate",
+  "Please_enter_valid_governorate_name":"Please enter valid governorate name",
+  "Cairo":"Cairo",
+  "Maadi":"Maadi",
+  "Country":"Country",
+  "Egypt":"Egypt",
+  "Please_enter_valid_Country":"Please enter valid Country",
+  "Phone_Number":"Phone Number",
+  "Please_enter_valid_Phone_number":"Please enter valid Phone number",
+  "Order_Submitted_We_will_call_you_to_confirm_the_order":"Order Submitted,We will call you to confirm the order",
+  "Done":"Done",
+
+  "Explore":"Explore",
+  "Cart":"Cart",
+  "Account":"Account",
+  "Please_check_your_internet_connection":"Please check your internet connection",
+
+  "Categories":"Categories",
+  "Best_Selling":"Best Selling",
+  "See_all":"See all",
+
+  "PRICE":"PRICE",
+  "ADD_TO_Cart":"ADD TO Cart",
+  "the_product_was_added":"the product was added",
+  "Details":"Details",
+
+  "Order_Details": "Order Details",
+  "Orders": "Orders",
+
+  "Log_Out":"Log Out",
+
+  "Search":"Search"
+}

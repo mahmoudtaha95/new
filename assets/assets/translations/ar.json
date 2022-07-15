@@ -1,0 +1,77 @@
+{
+  "Sign_Up":"التسجيل",
+  "Welcome":"مرحبآ،",
+  "Sign_in_to_Continue":"للاستمرار سجل دخول",
+  "Email":"البريد الكتروني",
+  "Email_invalid_or_not_found":"خطأ!غير متوفر",
+  "Password":"كلمه المرور",
+  "Password_is_incorrect":"خطأ في كلمة المرور",
+  "Forgot_Password":"نسيت كلمة المرور؟",
+  "SIGN_IN":"تسجيل الدخول",
+  "Sign_In_with_Facebook":"تسجيل الدخول بالفيسبوك",
+  "Sign_In_with_Google":"تسجيل الدخول بجوجل",
+
+  "Reset_Password":"ضبط كلمةالمرور",
+  "Please_enter_valid_email":"من فضلك ادخل بريد صحيح",
+  "SEND_Request":"إرسال طلب",
+  "an_email_was_sent":"تم إرسال بريد الإلكتروني",
+
+  "Name":"الاسم",
+  "Please_enter_valid_password_with_at_least_6_characters":"يرجى إدخال كلمة مرور صالحة مع 6 أحرف على الأقل",
+
+  "Edit_Profile":"تعديل الملف الشخصي",
+  "You_are_logged_in_using_Google_account":"لقد قمت بتسجيل الدخول باستخدام حساب جوجل",
+  "You_are_logged_in_using_Facebook_account":"لقد قمت بتسجيل الدخول باستخدام حساب الفيسبوك ",
+  "Choose_option":"إختر خيارا",
+  "Camera":"الكاميرا",
+  "Gallery":"المعرض",
+  "Select_Image":"اختر صورة",
+  "Please_enter_valid_name":"الرجاء إدخال اسم صالح",
+  "SUBMIT":"إرسال",
+
+  "Order_History":"الطلبات السابقة",
+  "Total_Billed":"إجمالي الفاتورة",
+  "Empty_Cart":"العربة فارغة",
+  "TOTAL":"الإجمالي",
+  "Checkout":"استكمال الطلب",
+
+
+
+  "Detailed_Address":"العنوان بالتفصيل",
+  "Please_enter_valid_Address":"الرجاء إدخال عنوان صحيح",
+  "Neighbourhood":" المنطقة/الحي",
+  "Please_enter_valid_neighbourhood":"الرجاء إدخال الحي الصحيح",
+  "Governorate":"المحافظة",
+  "Please_enter_valid_governorate_name":"الرجاء إدخال اسم محافظة صحيح",
+  "Cairo":"القاهرة",
+  "Maadi":"المعادى",
+  "Country":"الدولة",
+  "Egypt":"مصر",
+  "Please_enter_valid_Country":"الرجاء إدخال بلد صحيح",
+  "Phone_Number":"رقم الهاتف",
+  "Please_enter_valid_Phone_number":"الرجاء إدخال رقم هاتف صحيح",
+  "Order_Submitted_We_will_call_you_to_confirm_the_order":"تم تقديم الطلب،سوف نتواصل معك لتآكيد الطلب",
+  "Done":"تم",
+
+  "Explore":"استكشف",
+  "Cart":"العربة",
+  "Account":"الحساب",
+  "Please_check_your_internet_connection":"الرجاء التحقق من اتصالك بالانترنت",
+
+  "Categories":"الأقسام",
+  "Best_Selling":"الأكثر مبيعا",
+  "See_all":"عرض الكل",
+
+  "PRICE":"السعر",
+  "ADD_TO_Cart":"أضف إلى السلة",
+  "the_product_was_added":"تم اضافة المنتج",
+  "Details":"التفاصيل",
+
+  "Order_Details": "تفاصيل الطلب",
+  "Orders": "الطلبات",
+
+
+  "Log_Out":"تسجيل خروج",
+
+  "Search":"بحث"
+}
